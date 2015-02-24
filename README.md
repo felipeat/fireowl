@@ -24,3 +24,5 @@ DBpedia spotlight - https://github.com/dbpedia-spotlight/dbpedia-spotlight
 This project was created as my final year project in order to receive my BS degree in Computer Science at Federal University of Rio de Janeiro
 
 It was previously hosted at Google Code: https://code.google.com/p/fireowl/
+
+[![Analytics](https://ga-beacon.appspot.com/UA-39566348-2/felipeat/fireowl)](https://github.com/felipeat/fireowl)
